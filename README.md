@@ -22,10 +22,10 @@ Table of Contents
 
 ### Legend
 
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> - Lecture Videos
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> - Assignments / Labs
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> - Readings
+- <img src="https://cdn0.iconfinder.com/data/icons/pack-web-app-game/512/videoplayer-512.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> - Lecture Videos
+- <img src="https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/27-512.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> - Lecture Notes
+- <img src="https://cdn2.iconfinder.com/data/icons/line-icon-set-based-at-material-design-1/176/icon_assignment-compressor-512.png" width="20" height="20" alt="Assignments" title="Assignments" /> - Assignments / Labs
+- <img src="https://icon-library.com/images/reading-icon/reading-icon-4.jpg" width="20" height="20" alt="Readings" title="Readings" /> - Readings
 
 
 Courses
